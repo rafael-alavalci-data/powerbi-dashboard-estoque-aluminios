@@ -1,0 +1,21 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Arquivos temporários do Office
+~$*.xlsx
+~$*.xls
+~$*.csv
+~$*.pbix
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Pasta do VS Code
+.vscode/
+
+# Pasta do Windows
+$RECYCLE.BIN/
